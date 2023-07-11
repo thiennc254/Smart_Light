@@ -17,6 +17,8 @@ Bedroom light system that read the user face to recognize their behaviour and ad
    numpy  
    broker  
 # - Run command:
+## + Install:
+   -> pip install <...>
 ## + Test algorithms: 
    -> python FacialLandmarks.py  
 ## + Main Program: 
