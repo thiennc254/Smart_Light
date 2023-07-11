@@ -2,7 +2,7 @@
 Bedroom light system that read the user face to recognize their behaviour and adapt accordingly
 # Requiremnt
 ## Hardware
-  Kit ESP32
+  `Kit ESP32`
   5 LED
   Camera
 ## Software
